@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+
+body{
+    background-color: #EEF5FF;
+    text-align: center;
+}
+.aboutme-title{
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 50px;
+    margin-top: 20px;
+    text-decoration: underline;
+}
+.aboutme-para{
+    font-family: 'Kalam', cursive;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.conclusion{
+    font-weight: bold;
+}
